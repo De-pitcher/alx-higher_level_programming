@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-'''This is a rectangle class.'''
+"""This is a rectangle class."""
 
 class Rectangle:
-    '''This is an empty rectangle class.'''
+    """This is an empty rectangle class."""
     pass
